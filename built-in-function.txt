@@ -1,0 +1,50 @@
+{+++++ BUILT-IN FUNCTIONS+++++}
+
+
+PRINT                                 # Print something to console
+PRINT_RET                             # Instead of printing to the console,this will return the print
+INPUT                                 # Getting String Inputs                            
+INPUT_INT                             # Getting integer Input
+CLEAR                                 # Command to use inside the interpreter, to clear the console
+IS_NUMBER                             # Checking if it is a Number, if yes print 1 else 0
+IS_STRING                             # Checking if it is a String, if yes print 1 else 0
+IS_LIST                               # Checking if it is a List, if yes print 1 else 0
+IS_FUNCTION                           # Checking if it is a Function, if yes print 1 else 0
+APPEND                                # Adding something to a list at the back
+POP                                   # Remove something from a list
+EXTEND                                # Merging two lists as one
+SPEAKM                                # Speak something in male voice 
+SPEAKF                                # Speak something in male voice 
+WEBOPEN                               # Open default web browser with a given link
+GS_REC                                # Google Speech Recognizer, runs continuosly 
+DATE                                  # Printing the date (ex: 10 June 2020)
+
+
+{+++++++++++++++++++++++++++++}
+
+
+
+{=====BUILT-IN FUNCTIONS NEED TO BUILD=====}
+
+
+TIME
+DATE_TIME
+T_HMS
+BOOL
+CHR
+FLOAT
+HASH
+MAX
+MIN
+SOPEN
+RPASS_GEN
+OP_EDGE
+OP_CHROME
+OP_FIREFOX
+OP_EDGE_URL
+OP_CHROME_URL
+OP_FIREFOX_URL
+R_SPACE
+
+and more should be built
+{==========================================}

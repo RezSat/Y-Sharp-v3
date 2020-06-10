@@ -1,0 +1,4 @@
+PRINT("Greetings universe!")
+
+GS_REC_ONCE()
+
