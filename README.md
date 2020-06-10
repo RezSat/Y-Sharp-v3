@@ -3,7 +3,7 @@
 
  I put my all codes in one place because my next goal is to build this programming language with both c and python. As my Programming Language is specially developing for Robotic engineering and Computer Automation, I want to built more built-in functions for those tasks. so if you know python please contribute to this project.
 
- just add new functions by creating new functions like below:
+ # Just add new functions by creating new functions like below:
 
 # If your code needs any python library please add those libraries inside the 'Lib' folder
 
