@@ -36,7 +36,7 @@ Whatsapp : +94762679048
 Instagram : https://instagram.com/official.yehanwasura.lk
 Email : yehantest@gmail.com
 
-Patreon Page : https://patreon.com/thelearningcrux
+Patreon Page : https://patreon.com/yehanwasura
 Paypal : https://paypal.me/cyberrex599
 ```
 
