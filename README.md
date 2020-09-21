@@ -1,7 +1,7 @@
-# Y-Sharp-v3
+# Y-Sharp-v3 # Just for Fun
  Y# version 3 with Much more built-in functions and all codes in one place.
 
- I put my all codes in one place because my next goal is to build this programming language with both c and python. As my Programming Language is specially developing for Robotic engineering and Computer Automation, I want to built more built-in functions for those tasks. so if you know python please contribute to this project.
+ I put my all codes in one place because . if you know python, you can contribute to this project.
 
 To see all currently build functions look in the builtinfunctions.txt file
 
