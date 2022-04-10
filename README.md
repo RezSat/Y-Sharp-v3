@@ -29,15 +29,3 @@ BuiltInFunction.function name without the term 'execute_'             = BuiltInF
 global_symbol_table.set("the function name using for code", BuiltInFunction.function name without the term 'execute_')
 
 ``` 
-
-# Contact Me via :
-```
-Whatsapp : +94762679048
-Instagram : https://instagram.com/official.yehanwasura.lk
-Email : yehantest@gmail.com
-
-Patreon Page : https://patreon.com/yehanwasura
-Paypal : https://paypal.me/cyberrex599
-```
-
-Thank You
